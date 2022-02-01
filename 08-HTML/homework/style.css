@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(0, 255, 34);
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: blue;
+    padding: 50px;
+    border-color:rgb(0, 255, 34)
+}
+.spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+body {
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bTcRJUsnKmnAmhBdlK0gaer9pyaF2vTVvQ&usqp=CAU);
+}
+
